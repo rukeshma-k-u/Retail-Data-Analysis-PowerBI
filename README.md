@@ -36,5 +36,5 @@ This project delivers key metrics to support CEO and CMO decision-making around 
 ---
 
 📫 **Contact:**  
-[LinkedIn](https://www.linkedin.com/in/rukeshma-k-u-918643255/)  
+[LinkedIn](https://www.linkedin.com/in/rukeshma-k-u/)  
 📧 rukeshmagowda@gmail.com  
